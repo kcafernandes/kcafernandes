@@ -1,28 +1,22 @@
-👋 Hi, I’m @kcafernandes  
-  I’m a Robotics Engineering major at UC Riverside who’s really interested in the **software side of robotics** 
+yooo, I’m @kcafernandes :)
+  I’m a Robotics Engineering major at UCR who’s really interested in the **software side of robotics** 
 
-I’m interested in …  
-  - computer vision (OpenCV, perception pipelines)  
-  - robotics software + autonomous systems  
-  - C++ programming & performance-oriented logic  
-  - embedded systems + microcontrollers  
-  - AI for real-world robotics  
+My current interests: 
+  - AI Engineering
+  - Building useful and creative software
+  - ROS2
+  - AI for real-world robotics
+  - computer vision (OpenCV, perception pipelines)
 
 I’m currently learning …  
   - C++ (OOP, data structures, multi-file projects)  
-  - Python for vision + automation  
-  - LC-3 assembly & low-level logic  
-  - algorithms + system design fundamentals  
-  - how real robots process sensor data  
+  - Python for vision + automation + robotics!
+  - algorithms + system design fundamentals
+  - AI engineering fundamentals
+  - Robot simulations and planning 
 
-I’m looking to collaborate on …  
-  - robotics software projects  
-  - C++ apps, games, and tools  
-  - AI/vision-based projects  
-  - embedded or microcontroller systems  
-
-How to reach me …  
-  - *kcafernandes06@gmail.com*
+Feel free to reach me @   
+  - *kcafernandes01@gmail.com*
   - *www.linkedin.com/in/kesia-fernandes*
 
  
