@@ -1,13 +1,15 @@
-yooo, i’m @kcafernandes :)
-  i’m a robotics engineering major who’s really interested in **robotics, AI, and software development**
+### yooo, i’m kesia :)
 
-currently building my repo with whatever interests come to mind
+↳ i’m a robotics engineering student interested in **robotics, AI, and software development**.
 
-feel free to reach me @   
-  - *kcafernandes01@gmail.com*
-  - *www.linkedin.com/in/kesia-fernandes*
+↳ currently building my github with whatever interests come to mind
 
- 
+<br>
+
+#### feel free to reach out
+
+[Email](mailto:kcafernandes01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kesia-fernandes/)
+
 
 
 <!---
