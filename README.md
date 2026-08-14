@@ -9,7 +9,7 @@ My current interests:
   - computer vision (OpenCV, perception pipelines)
 
 I’m currently learning …  
-  - C++ (OOP, data structures, multi-file projects)  
+  - fullstack development design + application  
   - Python for vision + automation + robotics!
   - algorithms + system design fundamentals
   - AI engineering fundamentals
