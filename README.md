@@ -1,21 +1,9 @@
-yooo, I’m @kcafernandes :)
-  I’m a Robotics Engineering major at UCR who’s really interested in the **software side of robotics** 
+yooo, i’m @kcafernandes :)
+  i’m a robotics engineering major who’s really interested in **robotics, AI, and software development**
 
-My current interests: 
-  - AI Engineering
-  - Building useful and creative software
-  - ROS2
-  - AI for real-world robotics
-  - computer vision (OpenCV, perception pipelines)
+currently building my repo with whatever interests come to mind
 
-I’m currently learning …  
-  - fullstack development design + application  
-  - Python for vision + automation + robotics!
-  - algorithms + system design fundamentals
-  - AI engineering fundamentals
-  - Robot simulations and planning 
-
-Feel free to reach me @   
+feel free to reach me @   
   - *kcafernandes01@gmail.com*
   - *www.linkedin.com/in/kesia-fernandes*
 
