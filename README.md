@@ -1,5 +1,7 @@
 ### yooo, i’m kesia :)
 
+<br>
+
 ↳ i’m a robotics engineering student interested in **robotics, AI, and software development**.
 
 ↳ currently building my github with whatever interests come to mind
