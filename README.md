@@ -6,7 +6,8 @@
 
 ↳ currently building my github with whatever interests come to mind
 
-interested in my work? 👀 check me out here: https://kesiafernandes.vercel.app/
+
+check out my portfolio here 👀 : https://kesiafernandes.vercel.app/
 
 <br>
 
